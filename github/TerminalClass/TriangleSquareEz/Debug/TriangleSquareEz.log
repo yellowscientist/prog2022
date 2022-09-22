@@ -1,0 +1,4 @@
+﻿  Square.c
+C:\Users\itmm-2213-a\source\repos\TerminalClass\TriangleSquareEz\Square.c(12,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\itmm-2213-a\source\repos\TerminalClass\TriangleSquareEz\Square.c(16,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  TriangleSquareEz.vcxproj -> C:\Users\itmm-2213-a\source\repos\TerminalClass\Debug\TriangleSquareEz.exe
